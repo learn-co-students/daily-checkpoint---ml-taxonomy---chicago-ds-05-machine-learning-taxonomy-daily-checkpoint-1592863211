@@ -12,14 +12,14 @@ import sklearn.linear_model as lm
 
 
 ```python
-#Write your answer here
+# Write your answer here
 ```
 
 #### 2. What is the difference between supervised and unsupervised learning?
 
 
 ```python
-#Write your answer here
+# Write your answer here
 ```
 
 ## Error-Based Learning with Linear Regression
@@ -60,7 +60,7 @@ y = np.array([6000, 2000, 900])
 
 
 ```python
-#Your code here
+# Your work here
 ```
 
 #### 5. What is this new model's sum of squared errors for the three new points?  
@@ -69,5 +69,5 @@ y = np.array([6000, 2000, 900])
 
 
 ```python
-#your code here
+# Your work here
 ```
