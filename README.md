@@ -71,3 +71,8 @@ y = np.array([6000, 2000, 900])
 ```python
 # Your work here
 ```
+
+
+```python
+
+```
